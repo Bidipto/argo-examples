@@ -1,5 +1,5 @@
 
-replicas: 15
+replicas: 1
 
 tag: 7
 
