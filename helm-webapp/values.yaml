@@ -8,5 +8,5 @@ configmap:
     CUSTOM_HEADER: 'This app was deployed with helm!'
 
 image:
-  name: chagla/python-docker-dev-example
+  name: chagla/project_zero_be
   tag: latest
